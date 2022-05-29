@@ -1,0 +1,21 @@
+.myDiv {
+    border: 5px outset rgb(140, 0, 255);
+    width: 30%;
+    background-color: lightblue;
+    text-align: center;
+     margin-top: 2cm;
+     margin-left: 12cm;
+
+  }
+
+  .table{
+      text-align: center;
+      width: 80%;
+      margin-top: 10cm;
+      margin: auto;
+  }
+   h1
+      {
+       text-align: center;
+       border: 5px outset rgb(140, 0, 255);
+}
