@@ -15,7 +15,7 @@ $var = $_SESSION['uname'];
 <center> <img src="logo.png" width=300 height=100></center>
 
 <br><br><br><br><br>
-<center><h1> Wellcome to My Gym<h1></center>
+<center><h1> Welcome to My Gym<h1></center>
 
 
 
